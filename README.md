@@ -36,7 +36,7 @@ Super Rad band page
 
 # Optimization
   
-  --- Make the front end look more like a comic book
+  --- Add merch page
   
 # Other cool projects like this one
   - [Cloud Sounds](https://github.com/iPlayDrumsOnMyGuitar/cloudSounds)
