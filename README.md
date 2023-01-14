@@ -10,12 +10,6 @@ Super Rad band page
 
 ---
 
-# Objectives
-
-- 
-
----
-
 # Who is this for? 
 
 - Ska fans everywhere
@@ -40,13 +34,9 @@ Super Rad band page
 
 ---
 
-# Things to add
-
-
 # Optimization
   
-  
-  ---
+  --- Make the front end look more like a comic book
   
 # Other cool projects like this one
   - [Cloud Sounds](https://github.com/iPlayDrumsOnMyGuitar/cloudSounds)
