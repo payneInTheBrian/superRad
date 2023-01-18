@@ -16,24 +16,6 @@ Super Rad band page
 
 ---
 
-# Packages/Dependencies used 
-
- dotenv, ejs, express, express-flash, express-session
-
----
-
-# Install all the dependencies or node packages used for development via Terminal
-
-`npm install` 
-
----
-
-# Run
-
-`npm start`
-
----
-
 # Optimization
   
   --- Add merch page
